@@ -39,5 +39,4 @@ func TestHello(t *testing.T) {
 		want := "Olá, Ivan"
 		assertCorrectMessage(t, got, want)
 	})
-
 }
